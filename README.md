@@ -41,4 +41,3 @@ Train a custom YOLO model for improved accuracy in real-world classroom environm
 📜 License
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
 
-## 📂 Project Structure
