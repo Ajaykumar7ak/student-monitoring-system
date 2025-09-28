@@ -1,6 +1,11 @@
 # 🎓 Student Monitoring System  
 *AI-powered classroom and exam surveillance tool using YOLOv8 and MediaPipe*
 
+Contributors
+
+AJAYKUMAR M – Developer
+
+Thanks to open-source contributors from Ultralytics, Google MediaPipe, and OpenCV.
 ---
 
 ## 📌 Project Overview
